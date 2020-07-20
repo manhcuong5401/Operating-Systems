@@ -1,0 +1,1 @@
+An Operating System serves as a bridge (interface) between the user's hardware and the machine. An operating system has the function of providing a platform on which a user can execute programs in a convenient and efficient way.
