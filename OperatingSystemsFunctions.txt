@@ -1,1 +1,2 @@
 An Operating System serves as a bridge (interface) between the user's hardware and the machine. An operating system has the function of providing a platform on which a user can execute programs in a convenient and efficient way.
+One of the important functions of an operating system is the security, which the operating system uses password protection to secure user data, as well as similar methods. It also prevents unauthorized access to the user data and services.
